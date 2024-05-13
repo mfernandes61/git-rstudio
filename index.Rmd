@@ -1,0 +1,279 @@
+---
+title: "My Website"
+---
+
+# Big heading
+
+## a smaller heading
+# Markdown {#markdown-header}
+### even smaller
+
+## another small heading
+
+**bold** or __bold__  
+*italic* hhh _italic_. 
+
+X^2^  = Y^2^.  
+H~2~O. 
+```
+x -> 3
+y -> 5
+```
+~~struck out~~. 
+<U>This text is underlined</u>. 
+
+
+**bold** or __bold__  
+*italic* hhh _italic_. 
+
+X^2^  = Y^2^.  
+H~2~O. 
+```
+x -> 3
+y -> 5
+```
+~~struck out~~. 
+<U>This text is underlined</u>. 
+
+
+**bold** or __bold__  
+*italic* hhh _italic_. 
+
+X^2^  = Y^2^.  
+H~2~O. 
+```
+x -> 3
+y -> 5
+```
+~~struck out~~. 
+<U>This text is underlined</u>. 
+
+X^2^  = Y^2^.  
+H~2~O. 
+```
+x -> 3
+y -> 5
+```
+~~struck out~~. 
+<U>This text is underlined</u>. 
+
+X^2^  = Y^2^.  
+H~2~O. 
+```
+x -> 3
+y -> 5
+```
+~~struck out~~. 
+<U>This text is underlined</u>. 
+
+X^2^  = Y^2^.  
+H~2~O. 
+```
+x -> 3
+y -> 5
+```
+~~struck out~~. 
+<U>This text is underlined</u>. 
+
+X^2^  = Y^2^.  
+H~2~O. 
+```
+x -> 3
+y -> 5
+```
+~~struck out~~. 
+<U>This text is underlined</u>. 
+
+X^2^  = Y^2^.  
+H~2~O. 
+```
+x -> 3
+y -> 5
+```
+~~struck out~~. 
+<U>This text is underlined</u>. 
+
+X^2^  = Y^2^.  
+H~2~O. 
+```
+x -> 3
+y -> 5
+```
+~~struck out~~. 
+<U>This text is underlined</u>. 
+
+X^2^  = Y^2^.  
+H~2~O. 
+```
+x -> 3
+y -> 5
+```
+~~struck out~~. 
+<U>This text is underlined</u>. 
+
+X^2^  = Y^2^.  
+H~2~O. 
+```
+x -> 3
+y -> 5
+```
+~~struck out~~. 
+<U>This text is underlined</u>. 
+
+X^2^  = Y^2^.  
+H~2~O. 
+```
+x -> 3
+y -> 5
+```
+~~struck out~~. 
+<U>This text is underlined</u>. 
+
+X^2^  = Y^2^.  
+H~2~O. 
+```
+x -> 3
+y -> 5
+```
+~~struck out~~. 
+<U>This text is underlined</u>. 
+
+X^2^  = Y^2^.  
+H~2~O. 
+```
+x -> 3
+y -> 5
+```
+~~struck out~~. 
+<U>This text is underlined</u>. 
+
+X^2^  = Y^2^.  
+H~2~O. 
+```
+x -> 3
+y -> 5
+```
+~~struck out~~. 
+<U>This text is underlined</u>. 
+
+X^2^  = Y^2^.  
+H~2~O. 
+```
+x -> 3
+y -> 5
+```
+~~struck out~~. 
+<U>This text is underlined</u>. 
+
+X^2^  = Y^2^.  
+H~2~O. 
+```
+x -> 3
+y -> 5
+```
+~~struck out~~. 
+<U>This text is underlined</u>. 
+
+X^2^  = Y^2^.  
+H~2~O. 
+```
+x -> 3
+y -> 5
+```
+~~struck out~~. 
+<U>This text is underlined</u>. 
+
+X^2^  = Y^2^.  
+H~2~O. 
+```
+x -> 3
+y -> 5
+```
+~~struck out~~. 
+<U>This text is underlined</u>. 
+
+X^2^  = Y^2^.  
+H~2~O. 
+```
+x -> 3
+y -> 5
+```
+~~struck out~~. 
+<U>This text is underlined</u>. 
+
+X^2^  = Y^2^.  
+H~2~O. 
+```
+x -> 3
+y -> 5
+```
+~~struck out~~. 
+<U>This text is underlined</u>. 
+
+X^2^  = Y^2^.  
+H~2~O. 
+```
+x -> 3
+y -> 5
+```
+~~struck out~~. 
+<U>This text is underlined</u>. 
+
+X^2^  = Y^2^.  
+H~2~O. 
+```
+x -> 3
+y -> 5
+```
+~~struck out~~. 
+<U>This text is underlined</u>. 
+
+X^2^  = Y^2^.  
+H~2~O. 
+```
+x -> 3
+y -> 5
+```
+~~struck out~~. 
+<U>This text is underlined</u>. 
+
+X^2^  = Y^2^.  
+H~2~O. 
+```
+x -> 3
+y -> 5
+```
+~~struck out~~. 
+<U>This text is underlined</u>. 
+
+X^2^  = Y^2^.  
+H~2~O. 
+```
+x -> 3
+y -> 5
+```
+~~struck out~~. 
+<U>This text is underlined</u>.   
+
+1. Item 1.  
+    a Item 1a. 
+2. Item 2. 
+3. Item 3  
+
+* Item 1. 
+* Item 2. 
+* Item 3. 
+    * Item 3a. 
+        *  Item 3ai. 
+        * Item 3aii. 
+    * Item 3b. 
+    * Item 3c. 
+* Item 4. 
+
+- [ ] an unchecked task list item. 
+- [x] checked item. 
+
+
+[link to header](#markdown-header)
+[text of link](https://training.cam.ac.uk/bioinformatics/event-timetable).  
+
